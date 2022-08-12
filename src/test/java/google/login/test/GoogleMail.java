@@ -11,8 +11,8 @@ import org.openqa.selenium.By;
 
 public class GoogleMail {
 	private final String baseUrl = "https://accounts.google.com";
-	String gMail = "randomregalix@gmail.com";
-	String passwd = "@Admin099";
+	String gMail = "@gmail.com";
+	String passwd = "1213131";
 	
 	
 	@Before
